@@ -1,4 +1,5 @@
 <p align="center"><img src="public/gig1.png" width="400" alt="Laravel Logo"></p>
+<br>
 <p align="center"><img src="public/gig2.png" width="400" alt="Laravel Logo"></p>
 
 ## About The Project
